@@ -1,22 +1,14 @@
-# my-nuxt-app-2
+# Uploading a file in Nuxt.js tutorial #
 
-> My praiseworthy Nuxt.js project
+## Introduction ##
+This example is the result of the tutorial [Uploading a file in Nuxt.js](https://www.matt-grech.com/blog/nuxt-file-upload-tutorial).
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
+## Setup ##
+```bash
+git clone https://github.com/matt-grech/nuxt-file-upload-tutorial.git
+cd nuxt-file-upload-tutorial
+npm install && npm run dev
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Available URLs ##
+- `/upload-logo` - upload logo page.
